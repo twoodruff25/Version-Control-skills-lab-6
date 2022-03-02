@@ -1,4 +1,4 @@
-# Version-Control-skills-lab-6
+# Pushin Python License
 MIT License
 
 Copyright (c) 2022 Pushin Python
