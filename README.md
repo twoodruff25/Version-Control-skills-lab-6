@@ -22,11 +22,13 @@ Provide the program with your name, and least favorite animal. It could be your 
 The computer will then decide which animal is his least favorite animal of the day and reply it back to you. 
 On the off-chance you both provide the same animal, the computer will celebrate this hatred with you! 
 
+If you would like to help us make this program better, please consider contributing to the project, we are open-source and always appreaciate help. Be sure to provide readable pull requests and we will consider all those who take the time to help us. :)
+
 ## Team:
 
-    Tyler Courtney: (President of Pushin Python)
-    Tyler Woodruff: (CTO and Head of Development at Pushin Python)
-    Alex Glebavicius: (Lead Software Engineer at Pushin Python)
+* Tyler Courtney: (President of Pushin Python)
+* Tyler Woodruff: (CTO and Head of Development at Pushin Python)
+* Alex Glebavicius: (Lead Software Engineer at Pushin Python)
 
 ## Concerns
 
