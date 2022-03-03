@@ -9,8 +9,9 @@ This program asks for user to input their name and their least favorite animal. 
 Python 3.10.1 64-bit
 
 Any machine that has this version of Python installed will be able to run it using the standard command prompt protocol. 
-For any help installing python please reference the offical website *[Link](https://www.python.org/downloads/)*
-Furthermore, if help is needed to run this program please reference how to run python scripts here 'https://realpython.com/run-python-scripts/'
+For any help installing python please reference the offical website *[Python Download Link](https://www.python.org/downloads/)*
+
+Furthermore, if help is needed to run this program please reference how to run python scripts here *[Python Guide](https://realpython.com/run-python-scripts/)*
 
 Note: *Any and all necessary imports are provided by the standard python packages accessible to all upon installation.* 
 
