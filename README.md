@@ -1,8 +1,7 @@
 # Version-Control-skills-lab-6
 
 **What is it?**
-
-    This program asks for user to input their name and their least favorite animal. This will will print out, "(Name)'s least favorite animal is (animal)". The program will then display the computers least favorite animal as well with a chance of a surprise? If you are lucky of course. *hint: easter egg*
+This program asks for user to input their name and their least favorite animal. This will will print out, "(Name)'s least favorite animal is (animal)". The program will then display the computers least favorite animal as well with a chance of a surprise? If you are lucky of course. *hint: easter egg*
 
 **Requirements to run this program:**
 
