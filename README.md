@@ -1,17 +1,18 @@
 # Version-Control-skills-lab-6
 
 **What is it?**
+
 This program asks for user to input their name and their least favorite animal. This will will print out, "(Name)'s least favorite animal is (animal)". The program will then display the computers least favorite animal as well with a chance of a surprise? If you are lucky of course. *hint: easter egg*
 
 **Requirements to run this program:**
 
-    Python 3.10.1 64-bit
+Python 3.10.1 64-bit
 
-    Any machine that has this version of Python installed will be able to run it using the standard command prompt protocol. 
-    For any help installing python please reference the offical website [Link](https://www.python.org/downloads/)
-    Furthermore, if help is needed to run this program please reference how to run python scripts here 'https://realpython.com/run-python-scripts/'
+Any machine that has this version of Python installed will be able to run it using the standard command prompt protocol. 
+For any help installing python please reference the offical website [Link] (https://www.python.org/downloads/)
+Furthermore, if help is needed to run this program please reference how to run python scripts here 'https://realpython.com/run-python-scripts/'
 
-    Note: *Any and all necessary imports are provided by the standard python packages accessible to all upon installation.* 
+Note: *Any and all necessary imports are provided by the standard python packages accessible to all upon installation.* 
 
 **Usage:** 
 
