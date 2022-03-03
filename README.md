@@ -9,16 +9,17 @@ This program asks for user to input their name and their least favorite animal. 
 Python 3.10.1 64-bit
 
 Any machine that has this version of Python installed will be able to run it using the standard command prompt protocol. 
-For any help installing python please reference the offical website [Link] (https://www.python.org/downloads/)
+For any help installing python please reference the offical website *[Link](https://www.python.org/downloads/)*
 Furthermore, if help is needed to run this program please reference how to run python scripts here 'https://realpython.com/run-python-scripts/'
 
 Note: *Any and all necessary imports are provided by the standard python packages accessible to all upon installation.* 
 
 ## Usage:
 
-    Provide the program with your name, and least favorite animal. It could be your least favorite animal of the day or maybe all-time, it is entirely up to you. 
-    The computer will then decide which animal is his least favorite animal of the day and reply it back to you. 
-    On the off-chance you both provide the same animal, the computer will celebrate this hatred with you! 
+Provide the program with your name, and least favorite animal. It could be your least favorite animal of the day or maybe all-time, it is entirely up to you. 
+
+The computer will then decide which animal is his least favorite animal of the day and reply it back to you. 
+On the off-chance you both provide the same animal, the computer will celebrate this hatred with you! 
 
 ## Team:
 
